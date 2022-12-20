@@ -1,7 +1,7 @@
 ﻿//60. Показать двумерный массив размером m×n заполненный целыми случайными числами
 int m=4;
 int n=5;
-int[,] Random2DArray(int min=0,int max=10)
+int[,] Random2DArray(int m, int n, int min=0,int max=10)
 {
     int[,] a=new int[n,m];
     Random random=new Random();
