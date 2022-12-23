@@ -6,7 +6,7 @@ void Natur(int N,int i=1)
         System.Console.Write($"{i} ");
         Natur(N,i+1);
     }    
-}
+    }
 
 
 Natur(6);
