@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\bin\Debug\net6.0\032-Sum digital(Сумма цифр).exe
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\bin\Debug\net6.0\032-Sum digital(Сумма цифр).deps.json
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\bin\Debug\net6.0\032-Sum digital(Сумма цифр).runtimeconfig.json
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\bin\Debug\net6.0\032-Sum digital(Сумма цифр).dll
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\bin\Debug\net6.0\032-Sum digital(Сумма цифр).pdb
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).AssemblyInfo.cs
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).dll
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\refint\032-Sum digital(Сумма цифр).dll
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).pdb
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\032-Sum digital(Сумма цифр).genruntimeconfig.cache
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\BasicAlgotithms\032-Sum digital(Сумма цифр)\obj\Debug\net6.0\ref\032-Sum digital(Сумма цифр).dll
