@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\bin\Debug\net6.0\84.exe
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\bin\Debug\net6.0\84.deps.json
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\bin\Debug\net6.0\84.runtimeconfig.json
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\bin\Debug\net6.0\84.dll
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\bin\Debug\net6.0\84.pdb
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\obj\Debug\net6.0\84.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\obj\Debug\net6.0\84.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\obj\Debug\net6.0\84.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\obj\Debug\net6.0\84.AssemblyInfo.cs
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\obj\Debug\net6.0\84.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\obj\Debug\net6.0\84.dll
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\obj\Debug\net6.0\refint\84.dll
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\obj\Debug\net6.0\84.pdb
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\obj\Debug\net6.0\84.genruntimeconfig.cache
+C:\Users\user\Desktop\DA\IntrodictionCS-221111\84\obj\Debug\net6.0\ref\84.dll
