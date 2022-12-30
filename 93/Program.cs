@@ -35,6 +35,7 @@ void LineSort(int[,] a,int[,] b)
                     a[i,j+1]=t;                    
                 }
 }
+
 int[,] a=Random2DArray(n,m);
 int[,] b=Random2DArray(n,m);
 int[,] c;
