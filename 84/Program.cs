@@ -13,6 +13,7 @@ int? k=0;
 if (Inttest(s)==true)
  {
     for(int i=0;i<s.Length;i++)
+    
       if (char.IsDigit(s[i])) 
            k+= int.Parse($"{s[i]}");
                System.Console.WriteLine(k);
