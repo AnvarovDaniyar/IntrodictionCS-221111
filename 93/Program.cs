@@ -1,5 +1,4 @@
 ﻿//93. Задайте две матрицы. Напишите программу, которая будет находить произведение двух матриц.
-
 int n=6;
 int m=5;
 int[,] Random2DArray(int n,int m,int min=1,int max=5)
@@ -24,9 +23,9 @@ void Print2DArray(int[,] a)
 
 void ArrSum(int[,] a,int[,] b,int[,] c)
 {    
-     for(int i=0;i<a.GetLength(0);i++)    
+       for(int i=0;i<a.GetLength(0);i++)    
         for(int k=0;k<a.GetLength(1);k++)
-            for(int j=0;j<a.GetLength(1)-1;j++)
+            for(int j=0;j<a.GetLength(1);j++)
                 c[i,j] = a[i,j]*b[i,j];
 }
 
